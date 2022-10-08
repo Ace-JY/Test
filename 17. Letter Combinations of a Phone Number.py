@@ -1,7 +1,7 @@
 class Solution:
     def start(self):
         # parameters
-        digits = "2425"
+        digits = "9312"
         # ============== answer ==============
         res = []
         n = len(digits)
